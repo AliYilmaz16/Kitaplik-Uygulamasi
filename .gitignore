@@ -1,0 +1,12 @@
+.DS_Store
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+target/
+bin/
+*.class
+frontend/.venv/
+frontend/__pycache__/
+*.log
